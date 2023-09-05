@@ -1,0 +1,17 @@
+.header {
+    margin: 20px 0; 
+}
+.container {    
+    border : 2px grey dotted;
+    border-radius: 10px
+}
+.navItems {
+    display: flex;
+    padding: 25px;
+    justify-content: space-around;
+}
+.navItem a {
+    font-size: 25px;
+    color : white;
+    text-decoration: none;
+}

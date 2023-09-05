@@ -1,0 +1,7 @@
+.mainWrapper {
+    margin: 0 auto;
+    max-width: 85%;
+}
+.mainItems {
+    gap: 20px;
+}
